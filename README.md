@@ -1,2 +1,5 @@
 # Salon
-You can rename this repo by going to the Settings tab up top, and also change this description
+
+You can edit this file by clicking the pencil and writing in Markdown (here are Markdown basics: https://quarto.org/docs/authoring/markdown-basics.html)
+
+And we'll make this a website that shows up at https://FASEB-DataWorks.github.io/Salon (or whatever the name ends up being!)
