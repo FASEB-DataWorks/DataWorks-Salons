@@ -1,13 +1,13 @@
 # DataWorks! Salon
 
-![Data Salon Icon](https://user-images.githubusercontent.com/90872869/133941277-713114ba-b184-4507-9299-eef94fd3007d.png "DataWorks! Salon Icon")
+![Salon Icon](https://user-images.githubusercontent.com/90872869/134727332-4df1f2db-c174-4289-acfe-f367faef145d.png "DataWorks! Salon Icon")
 
-FASEB DataWorks! Salons host critical conversations about data sharing and re-use.  These virtual meetings and workshops are designed to engage community members, support discussion, and provide learning experiences.  Our goal is to build a social fabric to support and recognize researchers for sharing and re-using data.
+FASEB DataWorks! Salons host critical conversations about data sharing and reuse.  These virtual meetings and workshops are designed to engage community members, support discussion, and provide learning experiences.  Our goal is to build a social fabric to support and recognize researchers for sharing and reusing data.
 
 There is no specific format for a DataWorks! Salon - the duration, setting, and host will depend on the topic, audience, and goals, so long as the event engages participants in explorative conversation to share and increase collective understanding and inspire action.  Salons can be internal to FASEB, limited to specific organizations, or open to the community.
 
 ## Salon Schedule
-**7 October 2021:  LAUNCH!! Team Spirit: Help your team reach data nirvana.**  [Register](https://zoom.us/meeting/register/tJMscO6trjsrEtXnAumLngDhotvEG-NvNyaS).  Created in collaboration with [OpenScapes](https://openscapes.org).
+**7 October 2021:  LAUNCH!! Team Spirit: Help your team reach data nirvana.**  [Register](https://zoom.us/meeting/register/tJMscO6trjsrEtXnAumLngDhotvEG-NvNyaS).  Created in collaboration with [Openscapes](https://openscapes.org).
 
 ## Code of Conduct
 
@@ -17,7 +17,7 @@ FASEB's Catalyst Conference [Code of Conduct](faseb.org/Portals/2/PDFs/SRCs/SRC%
 
 # Join the Conversation!
 
-FASEB is a recent entry into the data sharing and re-use ecosystem, and as such  we seek to learn and partner with organizations and initiatives already in this space.  FASEB DataWorks! activities can build bridges, augment and amplify resources for adoption and use by researchers in the biological and biomedical communities -- and beyond.  We are currently seeking partners for curriculum development, ongoing professional development opportunities, and funding for the Capacity Program and the Catalyzing Data Re-Use Prize.
+FASEB is a recent entry into the data sharing and reuse ecosystem, and as such  we seek to learn and partner with organizations and initiatives already in this space.  FASEB DataWorks! activities can build bridges, augment and amplify resources for adoption and use by researchers in the biological and biomedical communities -- and beyond.  We are currently seeking partners for curriculum development, ongoing professional development opportunities, and funding for the Capacity Program and the Catalyst Prize.
 
-**Interested in partnering with FASEB? Want to learn more? Have an idea for a Salon topic? For more information, please [contact FASEB](https://faseb.org/About-FASEB/Contact-FASEB).**
+**Interested in partnering with FASEB? Want to learn more? Have an idea for a Salon topic? For more information, please contact FASEB at info@faseb.org.**
 
