@@ -1,13 +1,18 @@
 # DataWorks! Salon
+![DW Salons Icon](https://user-images.githubusercontent.com/90872869/145872352-74ca2597-3b11-4fdb-82a5-3f1c6877529c.jpg "DataWorks! Salon Icon")
 
-![Salon Icon](https://user-images.githubusercontent.com/90872869/134727332-4df1f2db-c174-4289-acfe-f367faef145d.png "DataWorks! Salon Icon")
-
-FASEB DataWorks! Salons host critical conversations about data sharing and reuse.  These virtual meetings and workshops are designed to engage community members, support discussion, and provide learning experiences.  Our goal is to build a social fabric to support and recognize researchers for sharing and reusing data.
+FASEB DataWorks! Salons are conversation spaces for the biological and biomedical research community to exchange ideas and design effective practices for data sharing and reuse.  These virtual meetings and workshops are designed to engage community members, support discussion, and provide learning experiences.  
 
 There is no specific format for a DataWorks! Salon - the duration, setting, and host will depend on the topic, audience, and goals, so long as the event engages participants in explorative conversation to share and increase collective understanding and inspire action.  Salons can be internal to FASEB, limited to specific organizations, or open to the community.
 
 ## Salon Schedule
-**7 October 2021:  LAUNCH!! Team Spirit: Help your team reach data nirvana.**  [Register](https://zoom.us/meeting/register/tJMscO6trjsrEtXnAumLngDhotvEG-NvNyaS).  Created in collaboration with [Openscapes](https://openscapes.org).
+**7 October 2021:  LAUNCH!! Team Spirit: Help your team reach data nirvana.**  [Registration closed]
+
+** 8,9,10 November 2021:  What Data Should be in my NIH Data Management and Sharing Plan?**  [Registration closed]
+Meeting Purpose: To engage NIH-funded researchers and learn about what data types they generate and use; what kinds of data are relevant for inclusion in in an NIH data management plan (DMP); and to triage what data types require more guidance to enable effective data management protocols.  See summary here: [What data go into my DMP.pdf](https://github.com/FASEB-DataWorks/Salon/files/7706321/What.data.go.into.my.DMP.pdf)
+
+**14 December 2021:  Announcing the DataWorks! DMP Challenge.**  [[Register!](https://zoom.us/meeting/register/tJUtcOqspz4rH9S3sQhb12cYb-5tI4ttaJCX)]
+Data Management Plans (DMPs) play an integral role in ensuring that data are collected, organized, stored, and shared responsibly. Biomedical and biological researchers writing such plans frequently ask for examples of excellent DMPs that incorporate their data types and specific storage, access, and IP requirements. To respond to this need, and to celebrate excellence in managing and sharing biomedical and biological data, we are excited to announce the DataWorks! Data Management Plan Challenge.
 
 ## Code of Conduct
 
