@@ -15,7 +15,7 @@ This Salon engages NIH-funded researchers and learn about what data types they g
 **14 December 2021:  Announcing the DataWorks! DMP Challenge.**  [[Register!](https://zoom.us/meeting/register/tJUtcOqspz4rH9S3sQhb12cYb-5tI4ttaJCX)]
 Data Management Plans (DMPs) play an integral role in ensuring that data are collected, organized, stored, and shared responsibly. Biomedical and biological researchers writing such plans frequently ask for examples of excellent DMPs that incorporate their data types and specific storage, access, and IP requirements. To respond to this need, and to celebrate excellence in managing and sharing biomedical and biological data, we are excited to announce the DataWorks! Data Management Plan Challenge.
 
-**SAVE THE DATE: 19 January 2022: Launching DataWorks!**
+**SAVE THE DATE: 19 January 2022: WHat's Ahead for DataWorks in 2022!**
 FASEB DataWorks! staff will provide an overview of the DataWorks! initiative, introduce partners.  A great opportunity to share your ideas and help prioritize goals for the coming year. 
 
 **SAVE THE DATE: 10 February 2022: What Funders Can Do to Support Data Sharing and Reuse.**
