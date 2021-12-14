@@ -18,7 +18,7 @@ Data Management Plans (DMPs) play an integral role in ensuring that data are col
 **SAVE THE DATE: 19 January 2022: Launching DataWorks!**
 FASEB DataWorks! staff will provide an overview of the DataWorks! initiative, introduce partners.  A great opportunity to share your ideas and help prioritize goals for the coming year. 
 
-**SAVE THE DATE: 10 February 2022: What Funders Can Do to Support Data Sharing and Reuse**
+**SAVE THE DATE: 10 February 2022: What Funders Can Do to Support Data Sharing and Reuse.**
 Funders can support data sharing and reuse in many ways.  The Health Research Alliance and Children's Tumor Foundation join us to showcase their activities to support data sharing, through direct expert support and researcher recognition. 
 
 **
