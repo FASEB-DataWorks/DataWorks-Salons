@@ -15,11 +15,14 @@ This Salon engages NIH-funded researchers and learn about what data types they g
 **14 December 2021, 2pm ET:  Announcing the DataWorks! DMP Challenge.**  [[Register!](https://zoom.us/meeting/register/tJUtcOqspz4rH9S3sQhb12cYb-5tI4ttaJCX)]
 Data Management Plans (DMPs) play an integral role in ensuring that data are collected, organized, stored, and shared responsibly. Biomedical and biological researchers writing such plans frequently ask for examples of excellent DMPs that incorporate their data types and specific storage, access, and IP requirements. To respond to this need, and to celebrate excellence in managing and sharing biomedical and biological data, we are excited to announce the DataWorks! Data Management Plan Challenge.
 
-**SAVE THE DATE: 19 January 2022, 2pm ET: What's Ahead for DataWorks in 2022!**
+**19 January 2022, 2pm ET: What's Ahead for DataWorks in 2022!** [[Register!](https://zoom.us/webinar/register/WN_gUsW0WqvQwy0ZTskIaFn9Q)]
 FASEB DataWorks! staff will provide an overview of the DataWorks! initiative and introduce partners.  A great opportunity to share your ideas and help prioritize goals for the coming year. 
 
-**SAVE THE DATE: 10 February 2022, 2pm ET: What Funders Can Do to Support Data Sharing and Reuse.**
+**10 February 2022, 2pm ET: What Funders Can Do to Support Data Sharing and Reuse.** [[Register!](https://zoom.us/meeting/register/tJMld-ytqjsvE9ypzoUcGR203cPo8QCrPxdX)]
 Funders can support data sharing and reuse in many ways.  The Health Research Alliance and Children's Tumor Foundation join us to showcase their activities to support data sharing, through direct expert support and researcher recognition. 
+
+**17 March 2022, 2pm ET: Meet the Winners of the DataWorks! DMP Challenge.** [[Register!](https://zoom.us/meeting/register/tJMlfuiprDMsEtzzmjDaZtQMR8EHHjmlCHG8)]
+We are awarding up to ten individuals a $500 prize for developing and sharing an examplary data management plan, using the 2023 NIH DMP template and the DMP tool.  Join us to hear tips from the winners and reviewers about how to prepare for the upcoming NIH DMP requirement. 
 
 ## Code of Conduct
 
