@@ -12,7 +12,7 @@ This event launches the DataWorks! Salon series.  It promotes learning and use o
 **8,9,10 November 2021:  What Data Should be in my NIH Data Management and Sharing Plan?**  [Registration closed]
 This Salon engages NIH-funded researchers and learn about what data types they generate and use; what kinds of data are relevant for inclusion in in an NIH data management plan (DMP); and to triage what data types require more guidance to enable effective data management protocols.  See summary here: [What data go into my DMP.pdf](https://github.com/FASEB-DataWorks/Salon/files/7706321/What.data.go.into.my.DMP.pdf)
 
-**14 December 2021, 2pm ET:  Announcing the DataWorks! DMP Challenge.**  [Registration closed] [[Learn more here: Submissions due 31 Jan 2022] (https://www.faseb.org/resources/data-science-and-informatics/dataworks-dmp-challenge)].
+**14 December 2021, 2pm ET:  Announcing the DataWorks! DMP Challenge.**  [Registration closed] [[Learn more here: Submissions due 31 Jan 2022](https://www.faseb.org/resources/data-science-and-informatics/dataworks-dmp-challenge)]
 Data Management Plans (DMPs) play an integral role in ensuring that data are collected, organized, stored, and shared responsibly. Biomedical and biological researchers writing such plans frequently ask for examples of excellent DMPs that incorporate their data types and specific storage, access, and IP requirements. To respond to this need, and to celebrate excellence in managing and sharing biomedical and biological data, we are excited to announce the DataWorks! Data Management Plan Challenge.
 
 **19 January 2022, 2pm ET: What's Ahead for DataWorks in 2022!** [[Register!](https://zoom.us/webinar/register/WN_gUsW0WqvQwy0ZTskIaFn9Q)]
