@@ -21,8 +21,9 @@ FASEB DataWorks! staff will provide an overview of the DataWorks! initiative and
 **10 February 2022, 2pm ET: What Funders Can Do to Support Data Sharing and Reuse.** [[Register!](https://zoom.us/meeting/register/tJMld-ytqjsvE9ypzoUcGR203cPo8QCrPxdX)]
 Funders can support data sharing and reuse in many ways.  The Health Research Alliance and Children's Tumor Foundation join us to showcase their activities to support data sharing, through direct expert support and researcher recognition. 
 
-**17 March 2022, 2pm ET: Meet the Winners of the DataWorks! DMP Challenge.** [[Register!](https://zoom.us/meeting/register/tJMlfuiprDMsEtzzmjDaZtQMR8EHHjmlCHG8)]
-We are awarding up to ten individuals a $500 prize for developing and sharing an examplary data management plan, using the 2023 NIH DMP template and the DMP tool.  Join us to hear tips from the winners and reviewers about how to prepare for the upcoming NIH DMP requirement. 
+**17 March 2022, 2pm ET: What is Data Reuse?** [[Register!](https://zoom.us/meeting/register/tJ0qdOGgpjsoGtP3DL_vVyWGwBm9pbktQy-p)]
+Join us to hear from researchers about how data reuse is changing the face of their discipline. In this DataWorks! Salon, Jason Williams and Will Lai share their experiences reusing research data and how they are supporting open science through hands-on education and research workflow platforms. 
+
 
 ## Code of Conduct
 
