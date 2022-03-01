@@ -21,7 +21,7 @@ FASEB DataWorks! staff will provide an overview of the DataWorks! initiative and
 **10 February 2022, 2pm ET: What Funders Can Do to Support Data Sharing and Reuse.** [[Register!](https://zoom.us/meeting/register/tJMld-ytqjsvE9ypzoUcGR203cPo8QCrPxdX)]
 Funders can support data sharing and reuse in many ways.  The Health Research Alliance and Children's Tumor Foundation join us to showcase their activities to support data sharing, through direct expert support and researcher recognition. 
 
-**17 March 2022, 2pm ET: What is Data Reuse?** [[Register!](https://zoom.us/meeting/register/tJ0qdOGgpjsoGtP3DL_vVyWGwBm9pbktQy-p)]
+**17 March 2022, 2pm ET: What is Data Reuse: Stories from the Field** [[Register!](https://zoom.us/meeting/register/tJ0qdOGgpjsoGtP3DL_vVyWGwBm9pbktQy-p)]
 Join us to hear from researchers about how data reuse is changing the face of their discipline. In this DataWorks! Salon, Jason Williams and Will Lai share their experiences reusing research data and how they are supporting open science through hands-on education and research workflow platforms. 
 
 
