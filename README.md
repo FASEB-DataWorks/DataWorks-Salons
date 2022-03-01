@@ -19,8 +19,8 @@ FASEB DataWorks! staff will provide an overview of the DataWorks! initiative and
 **14 December 2021, 2pm ET:  Announcing the DataWorks! DMP Challenge.** [[Recording](https://www.youtube.com/watch?v=GAm84x583Es)]
 Data Management Plans (DMPs) play an integral role in ensuring that data are collected, organized, stored, and shared responsibly. Biomedical and biological researchers writing such plans frequently ask for examples of excellent DMPs that incorporate their data types and specific storage, access, and IP requirements. To respond to this need, and to celebrate excellence in managing and sharing biomedical and biological data, we are excited to announce the DataWorks! Data Management Plan Challenge.
 
-**8,9,10 November 2021:  What Data Should be in my NIH Data Management and Sharing Plan?**  [Registration closed]
-This Salon engages NIH-funded researchers and learn about what data types they generate and use; what kinds of data are relevant for inclusion in in an NIH data management plan (DMP); and to triage what data types require more guidance to enable effective data management protocols.  See summary here: [What data go into my DMP.pdf](https://github.com/FASEB-DataWorks/Salon/files/7706321/What.data.go.into.my.DMP.pdf)
+**8,9,10 November 2021:  What Data Should be in my NIH Data Management and Sharing Plan?**  [[Summary here](https://github.com/FASEB-DataWorks/Salon/files/7706321/What.data.go.into.my.DMP.pdf)]
+This Salon engages NIH-funded researchers and learn about what data types they generate and use; what kinds of data are relevant for inclusion in in an NIH data management plan (DMP); and to triage what data types require more guidance to enable effective data management protocols.  
 
 **7 October 2021:  LAUNCH!! Team Spirit: Help Your Team Reach Data Nirvana.**  [Registration closed]
 This event launches the DataWorks! Salon series.  It promotes learning and use of team data sharing protocols and charters, gathers community input on team-based data sharing that can inform DataWorks! and FASEB science policy initiatives, and starts the process of recruiting teams for the OpenScapes/FASEB Champions cohort.
