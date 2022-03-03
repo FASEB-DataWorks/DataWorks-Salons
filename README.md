@@ -7,6 +7,12 @@ There is no specific format for a DataWorks! Salon - the duration, setting, and 
 
 ## Salon Schedule
 
+**12 May 2022, 2pm ET: How to prepare an NIH Data Management Plan**[[Register!](https://zoom.us/meeting/register/tJwqc-6pqDwjGNWpy2XQZxbGn45_G5t5SwBt)]
+The NIH requirement to submit a data management plan with your grant application is fast approaching.  Join Nina Exner, Lyric Jorgenson, and fellow researchers to learn more about how to prepare an NIH DMP - and how to enter a challenge to win up to $1000.
+
+**14 April 2022, 2pm ET: What is Data Sharing? More Stories from the Field** [[Register!](https://zoom.us/meeting/register/tJEsceyuqj8oGdNt3CeEWYmZhnz25CO-iMWg)]
+Join us to hear from researchers about how data sharing has benefited their work and supported new research advances. In this DataWorks! Salon, Parker Antin moderates a conversation with Sheenah Mische and Kristi Holmes about the role of data sharing in enabling team science.
+
 **17 March 2022, 2pm ET: What is Data Reuse: Stories from the Field** [[Register!](https://zoom.us/meeting/register/tJ0qdOGgpjsoGtP3DL_vVyWGwBm9pbktQy-p)]
 Join us to hear from researchers about how data reuse is changing the face of their discipline. In this DataWorks! Salon, Jason Williams and Will Lai share their experiences reusing research data and how they are supporting open science through hands-on education and research workflow platforms. 
 
