@@ -1,5 +1,7 @@
 # DataWorks! Salons
-![FASEB-DATAWorks_Salon_RGB_Logo_White](https://user-images.githubusercontent.com/90872869/157095790-21993347-75b2-4164-a6ca-b2d0fc6dc055.png "DataWorks! Salon Icon")
+
+![FASEB-DATAWorks_Salon_RGB-Logo_Gray-Black](https://user-images.githubusercontent.com/90872869/157095967-7820379c-7be4-4bc2-8969-85790376aa28.png "DataWorks! Salon Icon")
+
 
 FASEB DataWorks! Salons are conversation spaces for the biological and biomedical research community to exchange ideas and design effective practices for data sharing and reuse.  These virtual meetings and workshops are designed to engage community members, support discussion, and provide learning experiences.  
 
