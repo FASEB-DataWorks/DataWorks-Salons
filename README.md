@@ -1,5 +1,3 @@
-# DataWorks! Salons
-
 ![FASEB-DATAWorks_Salon_RGB-Logo_Gray-Black](https://user-images.githubusercontent.com/90872869/157095967-7820379c-7be4-4bc2-8969-85790376aa28.png "DataWorks! Salon Icon")
 
 
