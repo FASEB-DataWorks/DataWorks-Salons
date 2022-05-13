@@ -20,7 +20,7 @@ Join us to hear from researchers about how data sharing has benefited their work
 Join us to hear from researchers about how data reuse is changing the face of their discipline. In this DataWorks! Salon, Jason Williams and Will Lai share their experiences reusing research data and how they are supporting open science through hands-on education and research workflow platforms. 
 
 **10 February 2022, 2pm ET: What Funders Can Do to Support Data Sharing and Reuse.** [[Recording](https://zoom.us/rec/play/lmkB46Raj1IQ3jLfo3NBPfQ_GgNPQWDh8p-5zQKj_OIR4LcpPxcRAdvycfhxEhXqn15-RAEXBd3UDXhe.3jqO8ZPK7WiXdyBO)] 
-Funders can support data sharing and reuse in many ways.  The Health Research Alliance and Children's Tumor Foundation join us to showcase their activities to support data sharing, through direct expert support and researcher recognition. 
+Funders can support data sharing and reuse in many ways.  The Health Research Alliance, Children's Tumor Foundation, and Aligning Science Across Parkinson's join us to showcase their activities to support data sharing through direct expert support and researcher recognition. 
 
 **19 January 2022, 2pm ET: What's Ahead for DataWorks in 2022!** [[Recording](https://youtu.be/H4GcWXn9I_s)] 
 FASEB DataWorks! staff will provide an overview of the DataWorks! initiative and introduce partners.  A great opportunity to share your ideas and help prioritize goals for the coming year. 
