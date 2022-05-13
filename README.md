@@ -7,10 +7,10 @@ There is no specific format for a DataWorks! Salon - the duration, setting, and 
 
 ## Salon Schedule
 
-**7 June 2022, 2pm ET: Sharing Data CAREfully and FAIRly**[[Register!](https://us06web.zoom.us/meeting/register/tZUvdeCuqzwqHNT-D9U3XiEgfLkpoVz42XMg)]
+**7 June 2022, 2pm ET: Sharing Data CAREfully and FAIRly** [[Register!](https://us06web.zoom.us/meeting/register/tZUvdeCuqzwqHNT-D9U3XiEgfLkpoVz42XMg)]
 Everyone is talking about sharing data, but what is CARE and FAIR and how do I apply these principles in my research?  Join Stephanie Carroll, Tim Clark, and Maryann Martone and learn more from these researchers who helped to establish these principles.  
 
-**12 May 2022, 2pm ET: How to prepare an NIH Data Management Plan**[[Recording coming soon!](https://zoom.us/meeting/register/tJwqc-6pqDwjGNWpy2XQZxbGn45_G5t5SwBt)]
+**12 May 2022, 2pm ET: How to prepare an NIH Data Management Plan** [[Recording coming soon!](https://zoom.us/meeting/register/tJwqc-6pqDwjGNWpy2XQZxbGn45_G5t5SwBt)]
 The NIH requirement to submit a data management plan with your grant application is fast approaching.  Join Nina Exner, Lyric Jorgenson, and fellow researchers to learn more about how to prepare an NIH DMP - and how to enter a challenge to win up to $1000.
 
 **14 April 2022, 2pm ET: What is Data Sharing? More Stories from the Field** [[Recording coming soon!](https://zoom.us/meeting/register/tJEsceyuqj8oGdNt3CeEWYmZhnz25CO-iMWg)]
